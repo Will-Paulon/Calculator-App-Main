@@ -1,6 +1,6 @@
 # Frontend Mentor - Calculator app
 
-![Design preview for the Calculator app coding challenge](./design/desktop-preview.jpg)
+https://will-paulon.github.io/Calculator-App-Main/
 
 ## Welcome! 👋
 
